@@ -45,7 +45,7 @@ El servidor incluye cinco herramientas:
 - ExchangeRate-API
 - MCP Inspector
 - Git y GitHub
-- Render para el despliegue previsto
+- Render para el despliegue público del servidor MCP
 
 ## Requisitos
 
@@ -107,7 +107,7 @@ mcp-antioquia/
 
 El servidor y las herramientas de consulta del clima y de tasas de cambio se probaron localmente mediante MCP Inspector.
 
-El despliegue público debe verificarse de forma independiente antes de considerar el proyecto completamente publicado.
+El servidor se desplegó públicamente en Render y se verificó la conexión remota mediante MCP Inspector. Se comprobó la disponibilidad de los tres recursos, las cinco herramientas y los dos prompts, y se probó la consulta del clima.
 
 ## Desarrollo asistido por IA
 

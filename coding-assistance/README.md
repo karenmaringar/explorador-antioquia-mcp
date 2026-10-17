@@ -22,7 +22,7 @@
 - **MCP Inspector:** herramienta utilizada para conectarse al servidor y probar sus funcionalidades.
 - **Visual Studio Code:** entorno de desarrollo.
 - **Git y GitHub:** control de versiones y almacenamiento del código.
-- **Render:** plataforma prevista para desplegar el servidor públicamente.
+- **Render:** Render: plataforma utilizada para desplegar el servidor MCP públicamente.
 
 ## 3. Uso de inteligencia artificial durante el desarrollo
 
@@ -45,8 +45,7 @@ El código se revisó y probó progresivamente durante el desarrollo. La asisten
 - Verificación de los tres recursos, las cinco herramientas y los dos prompts.
 - Prueba de la consulta meteorológica mediante Open-Meteo.
 - Prueba de la consulta de tasas de cambio mediante ExchangeRate-API.
-
-El despliegue público y el acceso desde un cliente MCP externo deben validarse una vez publicado el servicio.
+- Despliegue público en Render y comprobación de la conexión remota mediante MCP Inspector.
 
 ## 5. Registro de prompts
 
